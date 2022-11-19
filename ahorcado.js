@@ -1,3 +1,4 @@
+//pido al usuario ingresar la palabra para adivinar
 let palabra = prompt("Ingrese palabra");
 let numIntentos = palabra.length * 2;
 let adivinar = new Array(palabra.length);
