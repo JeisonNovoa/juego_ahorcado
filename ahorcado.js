@@ -58,3 +58,4 @@ while(adivinar.join("") != palabra){
 //         alert(`Felicidades!! Usted ha ganado, la palabra era "${palabra}"`);
 //     }
 // }
+//haaaaaaaaaaaaaaaa
